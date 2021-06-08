@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="uno_seis" type="seis.py" name="publicador_seis" output="screen">
+    </node>
+</launch>
